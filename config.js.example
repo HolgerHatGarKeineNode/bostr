@@ -36,7 +36,7 @@ module.exports = {
   private_keys: {
     // "pubkey-in-hex": "privatekey",
     // "pubkey-in-hex": "nsec ...."
-  }
+  },
   // Tip: If you want to convert your pubkey/privatekey to hex,
   //      You could run the following command:
   //        $ node hexconverter.js npub....
